@@ -1,0 +1,45 @@
+.mokuji{
+    text-align: center;
+}
+.mokuji li{
+    margin-top: 10px;
+    font-size: 50px;
+    list-style: none;
+}
+h1{
+    font-size: 80px;
+}
+
+.title {
+    /* background-image: url(img/桜2.jpg); */
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
+table{
+    text-align: center;margin: auto;
+
+}
+td{
+    font-size: 50px;
+    text-align: center;
+    margin-right: 10%;
+
+}
+header{
+    margin-bottom: 10%;
+}
+
+.oo{
+    width: auto;
+    padding: auto;
+    border-bottom:  dashed #333;
+}
+body{margin: 0;
+}
+a{
+    color: #333;
+    text-decoration: none;
+}

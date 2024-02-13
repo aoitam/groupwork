@@ -1,0 +1,38 @@
+@charset "utf-8";
+      table{
+        table-layout: fixed;
+   width: 100%;
+      }
+
+      th{
+        width: 50%;
+        padding: 30px;
+      }
+
+      .back table{
+        table-layout: fixed;
+        width: 100%;
+      }
+
+      img.vaundy{
+        width: 400px;
+        height: 700px;
+      }
+
+      p{
+        text-align: left;
+      }
+
+      h1{
+        font-size: 20px;
+      }
+
+      .dai{
+            width: auto;
+            padding: auto;
+            border-bottom:  dashed #333;
+        }
+
+        body{
+            margin: 0;
+        }

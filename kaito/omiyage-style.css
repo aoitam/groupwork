@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+.divider {
+    border: 1px solid #ddd; 
+    margin: 10px 0; 
+    padding: 5px;
+}
+
+.top-kaito {
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.top-kaito table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mokuji {
+    background-image: url(img/konjiki.jpg);
+    background-size: cover;
+    width: auto;
+    padding: auto;
+}
+
+.syouhin, .setumei {
+    margin-bottom: 20px;
+}
+
+img {
+    max-width: 100%; 
+    height: auto; 
+}
+
+img{
+    width: auto;
+}
+
+.mac {
+    width: auto;
+    padding: auto;
+    border-bottom:  dashed #333; 
+
+}
+
+.top-kaito{
+    width:600px;
+    height:auto;
+    position: relative;
+}
+th{
+    width:50%;
+    height:50%;
+}
+h1{
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%,-50%);
+    padding:0;
+    margin:0;
+    font-size:30px;
+}
+
+.momiji{
+    width: 50%;
+}
+
+h2{
+    width: auto;
+    padding: auto;
+    text-align: center;
+    color: white;
+}
+
+.ooo{
+    margin: auto;
+    width: fit-content;
+}
+
+.ooo a{
+    color: rgb(255, 255, 255);
+}
+
+.syouhin p{
+    text-align: center;
+    font-size: 30px;
+}
+
+.syouhin h3{
+    margin-left: 30%;
+    font-size: 35px;
+}
+
+.image{
+   text-align: center;
+}
+
+.syouhin a{
+    color: green;
+    margin-left: 65%;
+}
+
+.setumei{
+    margin: auto;
+    width: fit-content;
+}
+
+.graund{
+        background-image: url(img/back.jpg);
+        background-size: cover;
+    width: auto;
+    padding: auto;
+}
+
+.syouhin{
+    background-image: url(img/haikei.jpg);
+    background-size: cover;
+    width: auto;
+    padding: auto;
+}

@@ -1,0 +1,121 @@
+header{
+background-color: #d4a276;
+}
+
+.food div {
+    border-bottom: 7px dashed #333; /* 破線のスタイルを指定 */
+    padding-bottom: 20px; /* グルメごとの余白を追加 */
+    margin-bottom: 20px; /* グルメごとの余白を追加 */
+}
+
+.mokuji {
+    justify-content: center;
+    align-items: center;
+    background-color: #f2f2f2;
+    background-image: url(img/iwatesannnn.jpg);
+}
+
+.mokuji h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 40px;
+    margin-bottom: 10px; 
+    text-align: center;
+}
+
+.mokuji li{
+    font-family:  serif;
+    text-align: left;
+    margin-left:43%;
+    border-radius: 5px;
+    max-width: 600px;
+    font-size: 28px;
+    font-weight: 900;
+}
+
+.mokuji li a:hover{
+    color: #f2f2f2;
+}
+
+.mokuji a{
+    color: #222222;
+    font-weight: 1000;
+}
+
+.food img{
+    width: 60%;
+    height: 450px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+.food p{
+    padding: 20px 80px;
+    font-family: serif;
+    font-size: 25px;
+}
+
+.food h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+span a {
+    display: block;
+    width: 30%;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #7f5539;
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #f2f2f2;
+    font-weight: 900;
+}
+
+span a:hover{
+    color: #7f5539;
+    background-color: #f2f2f2;
+}
+
+
+body{
+    background-color: #d2b48c;
+}
+
+.title{
+    margin-top: 2%;
+}
+
+.title h1{
+    font-family: 'Potta One', system-ui;
+    font-size: 40px;
+}
+
+.title img{
+    width: 65%;
+    height: 45%;
+    padding: 10px 0 2px 0;
+}
+
+.fixed-button {  /*固定ボタン*/
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+
+  body {
+    margin: 0;
+    padding: 0;
+    height: 1500px; /* ボタンを固定するために必要なページの高さを設定 */
+  }
+
+  

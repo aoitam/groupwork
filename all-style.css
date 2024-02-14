@@ -45,9 +45,7 @@
     header nav ul li:last-child{
         margin-left: auto;
     }
-    html{
-    /*background-color: #D3FFEF;*/
-    }
+   
     .pagetop {
         height: 50px;
         width: 50px;
